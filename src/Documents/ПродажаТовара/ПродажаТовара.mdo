@@ -58,7 +58,7 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="6ed1df2e-06ab-4ee3-9d1e-c0f2225524ad">
+  <attributes uuid="5e5d55be-42cd-41d3-a980-37306333fef6">
     <name>Сумма</name>
     <synonym>
       <key>ru</key>
@@ -74,7 +74,7 @@
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
-    <fillValue xsi:type="core:StringValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
